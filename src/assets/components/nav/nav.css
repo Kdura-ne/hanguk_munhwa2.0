@@ -1,0 +1,37 @@
+nav{
+    width: 100%;
+    min-height: 50px;
+    margin-bottom: 5px;
+    background-color: #ffffff;
+    border-top: 1px solid #0111278c;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+nav a{
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #0a0e2cc7;
+    font-family: "Noto Sans", sans-serif;
+    display: inline-block;
+    background-image: linear-gradient(to right, #0047A0, #0047A0);
+    background-size: 0% 2px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    transition: background-size 0.3s ease-in-out;
+}
+
+nav a:hover{
+    color: #0047A0;
+    background-size: 100% 2px;
+    transform: scale(1.1);
+    transition: all 0.33s ease-in-out;
+}
+
+nav a:focus{
+    outline: none;
+}

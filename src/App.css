@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Gamja Flower';
+    src: url('./assets/fonts/GamjaFlower-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    src: url('./assets/fonts/NanumMyeongjo-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    src: url('./assets/fonts/NanumMyeongjo-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    src: url('./assets/fonts/NanumMyeongjo-ExtraBold.ttf');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('./assets/fonts/NotoSans-VariableFont_wdth,wght.ttf');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('./assets/fonts/NotoSans-Italic-VariableFont_wdth,wght.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    src: url('./assets/fonts/NotoSansKR-VariableFont_wght.ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
