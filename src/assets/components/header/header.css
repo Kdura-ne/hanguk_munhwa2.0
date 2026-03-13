@@ -10,10 +10,10 @@ header {
     align-items: center;
 }
 
-header img {
+.logo-img {
     margin-left: 2%;
     max-height: 80px;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 10px;
     height: 400px;
     vertical-align: middle;

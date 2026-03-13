@@ -1,19 +1,4 @@
-body{
-    background-color: #DDE4EE;
-}
 
-main{
-    width: 95%;
-    min-height: 70vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 40px;
-    padding: 50px;
-    
-    background-color: white;
-}
 
 .title-artigo-container{
     width: 100%;
